@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "azure-iot-device": "^1.8.1",
+    "azure-iot-device-mqtt": "^1.8.1",
     "express": "^4.16.4",
     "express4-tedious": "^0.3.0",
     "tedious": "^3.0.1"
