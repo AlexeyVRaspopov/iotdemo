@@ -1,0 +1,2 @@
+This is light IoT demo solution on Azure cloud technologies.
+Contains 2 variants: first variont use NodeJS for frontend and backend hosting. Second variant use Azure Storage Account for FrontEnd and Azure Functions for BackEnd. Full documentation and step-by-step instruction available in iot onboarding.docx file.

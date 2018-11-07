@@ -1,8 +1,8 @@
 //tedious is library for Azure SQL connection
 var tediousExpress = require('express4-tedious');
-var TYPES = require('tedious').TYPES;
+//var TYPES = require('tedious').TYPES;
 var ConnectionSQL = require('tedious').Connection;
-var Request = require('tedious').Request;
+//var Request = require('tedious').Request;
 
 var connectionData = {
     userName: 'alexras',
